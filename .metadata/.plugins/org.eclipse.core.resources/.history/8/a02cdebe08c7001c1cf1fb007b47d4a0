@@ -1,0 +1,20 @@
+package MathsProblem;
+
+public class Pallingdrom {
+	
+	
+ public static void manin() {
+	int x=777;
+	int rev=0;
+	int temp=x;
+	
+	while(x>0) {
+	int lastdigit=temp%10;
+	rev=rev*10+lastdigit;
+	temp=temp/10;
+	}
+	System.out.println(rev);
+
+}
+	
+}

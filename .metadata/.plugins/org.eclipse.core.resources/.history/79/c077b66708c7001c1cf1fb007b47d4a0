@@ -1,0 +1,14 @@
+package MathsProblem;
+
+public class Pallingdrom {
+private void public static void manin() {
+	int x=777;
+	int rev=0;
+	
+	while(x>0) {
+		
+	}
+
+}
+	
+}

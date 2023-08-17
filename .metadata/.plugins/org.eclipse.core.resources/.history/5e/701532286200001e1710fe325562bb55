@@ -1,0 +1,14 @@
+package Pattern;
+
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+
+public class Rough {
+	public static void main(String ar[]) {
+		int[] num= {1,2,3,4,5};
+		
+	
+		
+	}
+}

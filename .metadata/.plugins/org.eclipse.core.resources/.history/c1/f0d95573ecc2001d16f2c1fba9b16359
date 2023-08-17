@@ -1,0 +1,14 @@
+package MathsProblem;
+
+//Next number is the sum of first two number
+public class RemoveJunk {
+
+	public static void main(String ar[]) {
+	
+		String s="#@*&Testing*%$#";
+		
+		String result=s.replaceAll("[^a-z ,A-Z ,0-9]", " ");
+		System.out.println(result);
+		
+	}
+}
